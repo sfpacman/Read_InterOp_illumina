@@ -57,7 +57,7 @@ Execute the Python script in the terminal:
    python run_qc_yaml_interop_production.py <target_dir> <out_dir>
    ```
 ### Input
-Provide a directory containing `RunInfo.xml` and an 'InterOp' subdirectory containing Illumina binary files
+Provide a directory containing `RunInfo.xml` and an `InterOp` subdirectory containing Illumina binary files
 ### Output
 A yaml file contains the following QC metrics: 
 * lane_level_metrics
