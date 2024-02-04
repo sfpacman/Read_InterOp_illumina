@@ -33,7 +33,7 @@
 
 ## About The Project
 
-This repository contains a standalone Python script designed to extract information from Illumina binary QC files and convert to a YAML file. The script serves as a refactored replacement for [illuminate](https://bitbucket.org/invitae/illuminate) and uses [InterOp](https://illumina.github.io/interop/index.html), which was subsequently integrated into the whole-exome sequencing (WES) pipeline during my tenure at UCSF.
+This repository contains a standalone Python script designed to extract information from Illumina binary QC files and convert to a YAML file. The script serves as a refactored replacement for [illuminate](https://bitbucket.org/invitae/illuminate) module and uses [InterOp](https://illumina.github.io/interop/index.html) module, which was subsequently integrated into the whole-exome sequencing (WES) pipeline during my tenure at UCSF.
 
 ## Prerequisites
 
