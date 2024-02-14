@@ -42,7 +42,7 @@ conda can be used to install ```interop``` and ```pandas``` .
 ## Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/lawrenson-lab/Read_InterOp_illumina/
+   git clone https://github.com/sfpacman/Read_InterOp_illumina/
    ```
 2. Install packages via conda
     ```sh
