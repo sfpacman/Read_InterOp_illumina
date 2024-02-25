@@ -69,7 +69,7 @@ A yaml file contains the following QC metrics:
 * run_level_metrics
 
 ### Configuration
-No additional arguments are included for modifying Illumina QC column names and metric conversion for the final report. However, you can simply change the implenetation for the following functions. 
+No additional arguments are included for modifying Illumina QC column names and metric conversion for the final report as the format is strictly defined. However, you can simply change the implenetation for the following functions. 
 
 * ```get_columns_name()```
 * ```get_metrics()```
